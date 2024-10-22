@@ -2,7 +2,6 @@
 
 ### Name: Harini S
 ### Register No: 212223240048
-### Date:
 
 ## AIM:
 To execute Windows basic commands and batch scripting
